@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
  */
 /**
  *
- * @author margus-matis.roo
+ * @author karmo.tutk
  */
 public class MyTableModel extends DefaultTableModel {
 
