@@ -20,7 +20,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
  */
 /**
  *
- * @author margus-matis.roo
+ * @author karmo.tutk
  */
 public class TableExample extends javax.swing.JFrame {
 
